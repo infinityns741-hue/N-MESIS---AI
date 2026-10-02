@@ -1,0 +1,6 @@
+{
+  "name": "NÉMESIS - IA",
+  "description": "Red Neuronal Académica, Tutoría IA, simulaciones y gestión de aulas de FÍSICA - UNSAAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
